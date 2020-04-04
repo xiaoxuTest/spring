@@ -7,7 +7,9 @@ public class User {
     private String name;
     //年龄
     private int age;
+    //邮箱
     private String email;
+    //地址
     private  String address;
 
     public int getId() {
