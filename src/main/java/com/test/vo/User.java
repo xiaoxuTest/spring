@@ -3,6 +3,7 @@ package com.test.vo;
 public class User {
    //用户信息
     private int id;
+    //姓名
     private String name;
     private int age;
     private String email;
