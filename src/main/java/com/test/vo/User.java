@@ -5,6 +5,7 @@ public class User {
     private int id;
     //姓名
     private String name;
+    //年龄
     private int age;
     private String email;
     private  String address;
